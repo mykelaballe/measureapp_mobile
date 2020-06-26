@@ -27,7 +27,7 @@ M Lhuillier is a major financial company which offers services and products that
 Solely built the app's front-end for both Android and iOS
 
 ### Screenshots
-<img src="Screenshot_20200626-232930_MeasureApp](https://user-images.githubusercontent.com/22584900/85883157-1f76f300-b813-11ea-8f03-c809d02a9787.jpg" width="800"/>
+<img src="https://user-images.githubusercontent.com/22584900/85883157-1f76f300-b813-11ea-8f03-c809d02a9787.jpg" width="800"/>
 
 ### Notable Features
 * Google Maps
