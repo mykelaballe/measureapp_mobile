@@ -7,7 +7,7 @@
 built with [React Native](https://facebook.github.io/react-native/)
 
 # About The App
-MeasureApp mobile is basically a Rubric application where users are allowed to apply as an Assessor and give scores to each indicators.
+A rewrite of the existing app using React Native. Each year, this app is used by the Ramon Aboitiz Foundation Inc to rate target schools in Cebu in a scorecard. Selected assessor's will rate their assigned school(s) using the app, evaluate each indicators and later on in the web app, accumulate the scores gathered by the mobile app and see which school will be given the SEED award
 
 ### About RAFI
 https://www.rafi.org.ph/  
