@@ -10,7 +10,7 @@ built with [React Native](https://facebook.github.io/react-native/)
 MeasureApp mobile is basically a Rubric application where users are allowed to apply as an Assessor and give scores to each indicators.
 
 ### About RAFI
-https://www.rafi.org.ph/
+https://www.rafi.org.ph/  
 The Ramon Aboitiz Foundation Inc. (RAFI) is the family foundation of the family line of Don Ramon Aboitiz. Established in 1966, RAFI continues to elevate lives of people in the Visayas and Mindanao.
 
 ### My Contribution
